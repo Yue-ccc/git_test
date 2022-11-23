@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("git test");
         System.out.println("git test");
         System.out.println("master");
+        System.out.println("branch1");
     }
 }
