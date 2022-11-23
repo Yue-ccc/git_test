@@ -8,5 +8,7 @@ public class HelloGit {
         System.out.println("master");
         System.out.println("branch1");
         System.out.println("push commit");
+        System.out.println("pull commit");
+        
     }
 }
